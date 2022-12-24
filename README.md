@@ -1,4 +1,4 @@
-# vuetify-todo
+# vue-test-project
 
 ## Project setup
 ```
